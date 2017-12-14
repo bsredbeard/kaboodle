@@ -1,0 +1,24 @@
+{
+  "name": "kaboodle",
+  "version": "0.1.0",
+  "description": "Watches files and runs commands when they change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kaboodle": "./bin/cli.js"
+  },
+  "keywords": [
+    "watcher",
+    "dev",
+    "develop",
+    "tool"
+  ],
+  "author": "mentalspike",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.7.0",
+    "exit-hook": "^1.1.1"
+  }
+}
