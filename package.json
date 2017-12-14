@@ -15,6 +15,7 @@
     "develop",
     "tool"
   ],
+  "repository": "mentalspike/kaboodle",
   "author": "mentalspike",
   "license": "MIT",
   "dependencies": {
